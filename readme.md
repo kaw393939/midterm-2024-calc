@@ -17,6 +17,7 @@ This midterm requires the development of an advanced Python-based calculator app
 - Create a 3-5 minute video demonstration of using the calculator, highlighting its key features and functionalities. Link the video to the repository readme.
 -  Submit a link to your repository to Canvas.  
 -  Keep your repository private while working on it, so people don't copy your work.  Make the repository public within a day of the project being due, so we can grade it.
+- **REQUIRED - YOU MUST USE GITHUB ACTIONS AND YOUR CODE MUST PASS ALL THE TESTS ON GITHUB**
 
 ## Core Functionalities
 
