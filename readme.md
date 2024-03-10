@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-This midterm requires the development of an advanced Python-based calculator application. Designed to underscore the importance of professional software development practices, the application integrates clean, maintainable code, the application of design patterns, comprehensive logging, dynamic configuration via environment variables, sophisticated data handling with Pandas, and a command-line interface (REPL) for real-time user interaction. It uniquely combines arithmetic operations with statistical analyses, utilizing data from CSV files to demonstrate practical data manipulation and analysis skills.
-
+This midterm requires the development of an advanced Python-based calculator application. Designed to underscore the importance of professional software development practices, the application integrates clean, maintainable code, the application of design patterns, comprehensive logging, dynamic configuration via environment variables, sophisticated data handling with Pandas, and a command-line interface (REPL) for real-time user interaction.
 ## Instructor Video - [here](https://youtu.be/hu9YFdeSkV8)
 
 ## Project Submission
